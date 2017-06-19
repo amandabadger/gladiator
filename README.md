@@ -9,8 +9,13 @@ This game is a work in progress.
 
 ## To Do
 Stat point distribution
+
 Inventory Management
+
 Shop
+
 Game Balance
+
 Combat
+
 Saving Scores
